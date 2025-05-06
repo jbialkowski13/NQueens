@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NQueens</string>
+    <string name="select_board_size">Select board size:</string>
+    <string name="start_new_game">Start</string>
+    <string name="scores">Scores</string>
+    <string name="close_game">Close game?</string>
+    <string name="close_game_message">Are you sure you want to close the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="queens_left">Queens left: %1$s</string>
+    <string name="confetti_message">You solved it!</string>
+    <string name="confetti_time">Your time is %1$s</string>
+    <string name="close">Close</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="scores_empty">No scores yet</string>
+    <string name="board_size">Board size: %1$s</string>
+    <string name="solve_time">Solved in %1$s</string>
+    <string name="solve_timestamp">Solved date: %1$s</string>
+</resources>
